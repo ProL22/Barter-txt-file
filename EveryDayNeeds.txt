@@ -1,0 +1,14 @@
+1-Login Screen,Thank you Screen, Log out screen.
+2-Donater/Requesting User
+3-Donating user-
+  3-(i)The donater would be able to scroll the feed and search for the requests (That would be on the basis of it;s donating history)
+  3-(ii)The Donater will recieve the notifications of the reuests taht he would like to see
+  3-(iii)The donater would get to the Thank You screen when he/she donates something
+4-Requesting User-
+  4-(i)Name of the thing
+  4-(ii)The use of the thing
+  4-(iii)Would recieve notification if the reqest would be accepted
+5-Admin-
+  5-(i) Will make the app for the user by adding updates
+  5-(ii) Adding AI to the program
+  5-(iii) Will restrict the requesting user to not request things more than 1 at one time
